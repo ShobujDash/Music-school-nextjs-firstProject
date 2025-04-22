@@ -4,7 +4,6 @@ Welcome to the **Music School** project! This is a beginner-friendly **Next.js**
 
 🌐 **Live Demo:**  
 [https://music-school-nextjs-first-project.vercel.app/courses](https://music-school-nextjs-first-project.vercel.app)
-
 ---
 
 ## ✨ Features
